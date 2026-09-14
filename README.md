@@ -1,4 +1,4 @@
-### Hi, I'm Yasser 👋
+### Hi, I'm Yasser 
 
 **Backend Engineer & Squad Lead** building robust, scalable systems — mostly in Go and PHP/Laravel.
 
@@ -6,7 +6,7 @@ I lead an engineering squad at **Jakpat** (Indonesia's largest online survey pla
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -19,7 +19,7 @@ I lead an engineering squad at **Jakpat** (Indonesia's largest online survey pla
 
 ---
 
-### 🚀 Side Projects
+### Side Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -29,14 +29,14 @@ I lead an engineering squad at **Jakpat** (Indonesia's largest online survey pla
 
 ---
 
-### 📌 Pinned Highlights
+### Pinned Highlights
 
 - **[gin-redis](https://github.com/yasseryazid/gin-redis)** — Go REST API boilerplate with Gin + Redis caching
 - **[go-personal-expense-bot](https://github.com/yasseryazid/go-personal-expense-bot)** — Telegram bot for tracking personal expenses, built in Go
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yasseryazid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
