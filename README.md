@@ -1,8 +1,8 @@
 ## Yasser Yazid
 
-Backend Engineer & Squad Lead at **[Jakpat](https://jakpat.net)**, Indonesia's largest online survey platform.
+Backend engineer building scalable systems in Go and PHP/Laravel.
 
-I design and build backend systems in Go and PHP/Laravel, with a focus on scalable APIs, multi-tenant SaaS architecture, and maintainable codebases. As a squad lead, I set technical direction, write architecture documentation, and review code across the team. Outside of work, I build and ship my own products.
+I work across the backend stack, from API design and data modeling to caching, performance tuning, and deployment. Most of my recent work centers on multi-tenant SaaS architecture and clean, maintainable codebases. I also design, build, and ship my own products end to end.
 
 [LinkedIn](https://linkedin.com/in/yasseryazid) · [Email](mailto:yasser.yazid@gmail.com)
 
