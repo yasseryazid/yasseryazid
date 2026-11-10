@@ -84,6 +84,7 @@ var yasser = Engineer{
 | **[CuciOne](https://cucione.com)** | Laundry POS & management system for SMEs | `Go` `React` `MySQL` |
 | **[Zagoland](https://zagoland.com)** | Educational game platform for kids | `Go` `React` |
 | **[Bimbelin](https://bimbelin.com)** | Online tutoring marketplace | `Go` `Laravel` |
+| **[Asahi](https://github.com/yasseryazid/asahiplay)** | Learning games platform for kids | `Laravel` `Tailwind` |
 
 ### Open Source
 
